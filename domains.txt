@@ -68,3 +68,4 @@ analytics-api.samsunghealthcn.com
 advertising.apple.com
 api-adservices.apple.com
 books-analytics-events.apple.com
+afcdn.net
